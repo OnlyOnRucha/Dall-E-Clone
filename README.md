@@ -1,1 +1,1 @@
-Dall-E Clone
+I am creating a Dall-E Clone in MERN stack using the openaiAI's API.
